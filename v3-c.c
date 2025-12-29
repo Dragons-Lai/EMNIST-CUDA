@@ -9,7 +9,7 @@
 #define NUM_CLASSES 47
 #define TRAINING_SAMPLES 10000
 #define TESTING_SAMPLES 18800
-#define BATCH_SZ 8
+#define BATCH_SZ 32
 #define NUM_EPOCHS 10
 #define LR 1e-2
 

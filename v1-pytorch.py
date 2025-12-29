@@ -9,7 +9,7 @@ import torch.optim as optim
 
 NUM_EPOCHS = 10
 LR = 1e-2
-BATCH_SZ = 8
+BATCH_SZ = 32
 TRAINING_SAMPLES = 10000  # Number of samples to use from 112,800 total training samples
 
 # Set matrix multiplication precision

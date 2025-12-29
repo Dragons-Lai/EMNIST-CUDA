@@ -10,7 +10,7 @@
 #define NUM_CLASSES     47
 #define NUM_TRAIN       10000
 #define NUM_TEST        18800
-#define MINI_BATCH      8
+#define MINI_BATCH      32
 #define NUM_EPOCHS      10
 #define LR              0.01f
 

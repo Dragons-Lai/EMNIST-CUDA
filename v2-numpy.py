@@ -6,7 +6,7 @@ import numpy as np
 
 NUM_EPOCHS = 10
 LR = 1e-2
-BATCH_SZ = 8
+BATCH_SZ = 32
 TRAINING_SAMPLES = 10000  # Use 10,000 samples from 112,800 total training samples
 
 def softmax_activation(logits):
